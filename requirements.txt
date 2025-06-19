@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pyresparser
+pdfminer.six
+nltk
+sentence-transformers
+scikit-learn
+torch
